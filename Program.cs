@@ -10,7 +10,7 @@ namespace Mafia
     {
         static void Main(string[] args)
         {
-
+            MafiaGame.Game("Players.txt", "Roles.txt", "Result.txt");
         }
     }
 }
