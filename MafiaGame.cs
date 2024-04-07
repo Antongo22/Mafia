@@ -51,7 +51,6 @@ namespace Mafia
             }
         }
 
-
         static string GetAllRoles()
         {
             string rolseText = "";
